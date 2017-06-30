@@ -1,8 +1,0 @@
-<!DOCTYPE HTML>
-<html>
-    <head>
-    </head>
-    <body>
-        <p>I love china very much.</p>
-    </body>
-</html>
